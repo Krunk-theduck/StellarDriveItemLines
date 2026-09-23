@@ -3,5 +3,6 @@
     "name":  "Item Lines",
     "author":  "Krunk",
     "version":  "0.1.0",
-    "description":  "Item cables for machines with inventory, includes junctions, filters and more. Needs SDModKit"
+    "description":  "Item cables for machines with inventory, includes junctions, filters and more. Needs SDModKit",
+    "thumbnail": "image.png"
 }
